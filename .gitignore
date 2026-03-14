@@ -1,0 +1,14 @@
+# Dataset
+archive/
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
